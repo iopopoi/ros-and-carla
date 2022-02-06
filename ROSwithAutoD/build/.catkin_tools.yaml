@@ -1,0 +1,6 @@
+devel_space: /home/iopopoi/ros-and-carla/ROSwithAutoD/devel
+install: false
+install_space: /home/iopopoi/ros-and-carla/ROSwithAutoD/install
+profile: default
+source_space: /home/iopopoi/ros-and-carla/ROSwithAutoD/src
+workspace: /home/iopopoi/ros-and-carla/ROSwithAutoD

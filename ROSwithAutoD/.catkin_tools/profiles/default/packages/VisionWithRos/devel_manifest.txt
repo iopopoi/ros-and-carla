@@ -1,0 +1,6 @@
+VisionWithRos
+/home/iopopoi/ros-and-carla/ROSwithAutoD/devel/.private/VisionWithRos/cmake.lock /home/iopopoi/ros-and-carla/ROSwithAutoD/devel/./cmake.lock
+/home/iopopoi/ros-and-carla/ROSwithAutoD/devel/.private/VisionWithRos/share/VisionWithRos/cmake/VisionWithRosConfig-version.cmake /home/iopopoi/ros-and-carla/ROSwithAutoD/devel/share/VisionWithRos/cmake/VisionWithRosConfig-version.cmake
+/home/iopopoi/ros-and-carla/ROSwithAutoD/devel/.private/VisionWithRos/share/VisionWithRos/cmake/VisionWithRosConfig.cmake /home/iopopoi/ros-and-carla/ROSwithAutoD/devel/share/VisionWithRos/cmake/VisionWithRosConfig.cmake
+/home/iopopoi/ros-and-carla/ROSwithAutoD/devel/.private/VisionWithRos/lib/VisionWithRos/LaneDetect /home/iopopoi/ros-and-carla/ROSwithAutoD/devel/lib/VisionWithRos/LaneDetect
+/home/iopopoi/ros-and-carla/ROSwithAutoD/devel/.private/VisionWithRos/lib/pkgconfig/VisionWithRos.pc /home/iopopoi/ros-and-carla/ROSwithAutoD/devel/lib/pkgconfig/VisionWithRos.pc

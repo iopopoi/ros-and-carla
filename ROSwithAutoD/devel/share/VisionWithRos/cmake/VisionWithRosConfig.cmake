@@ -1,0 +1,1 @@
+/home/iopopoi/ros-and-carla/ROSwithAutoD/devel/.private/VisionWithRos/share/VisionWithRos/cmake/VisionWithRosConfig.cmake

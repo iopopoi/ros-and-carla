@@ -1,0 +1,1 @@
+/home/iopopoi/ros-and-carla/ROSwithAutoD/devel/.private/VisionWithRos/lib/pkgconfig/VisionWithRos.pc

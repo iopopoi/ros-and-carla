@@ -1,0 +1,8 @@
+prefix=/home/iopopoi/ros-and-carla/ROSwithAutoD/devel/.private/VisionWithRos
+
+Name: VisionWithRos
+Description: Description of VisionWithRos
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

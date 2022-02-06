@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target LaneDetect[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/LaneDetect.dir/src/LaneDetect.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/iopopoi/ros-and-carla/ROSwithAutoD/devel/.private/VisionWithRos/lib/VisionWithRos/LaneDetect[0m
+[100%] Built target LaneDetect
